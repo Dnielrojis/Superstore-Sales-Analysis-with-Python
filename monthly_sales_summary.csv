@@ -1,0 +1,145 @@
+Order Year,Order Month,Category,Sales
+2015,April,Furniture,7944.8369999999995
+2015,April,Office Supplies,10988.874000000002
+2015,April,Technology,8973.144
+2015,August,Furniture,7125.2105
+2015,August,Office Supplies,11055.276
+2015,August,Technology,8937.05
+2015,December,Furniture,30637.3425
+2015,December,Office Supplies,16956.492
+2015,December,Technology,20573.224
+2015,February,Furniture,1839.658
+2015,February,Office Supplies,1071.724
+2015,February,Technology,1608.51
+2015,January,Furniture,6217.277
+2015,January,Office Supplies,4845.14
+2015,January,Technology,3143.29
+2015,July,Furniture,10821.051
+2015,July,Office Supplies,15121.207999999999
+2015,July,Technology,7839.284
+2015,June,Furniture,13144.5816
+2015,June,Office Supplies,12742.389000000001
+2015,June,Technology,8435.965
+2015,March,Furniture,14243.368
+2015,March,Office Supplies,8602.455
+2015,March,Technology,32359.974000000002
+2015,May,Furniture,6912.787
+2015,May,Office Supplies,7131.639999999999
+2015,May,Technology,9599.876
+2015,November,Furniture,21471.0407
+2015,November,Office Supplies,26363.196
+2015,November,Technology,30073.424
+2015,October,Furniture,12304.247
+2015,October,Office Supplies,7211.128
+2015,October,Technology,11938.018
+2015,September,Furniture,23816.4808
+2015,September,Office Supplies,27423.298000000003
+2015,September,Technology,30383.748
+2016,April,Furniture,10475.6985
+2016,April,Office Supplies,12517.818
+2016,April,Technology,11160.952000000001
+2016,August,Furniture,9638.5922
+2016,August,Office Supplies,11735.108
+2016,August,Technology,15444.642
+2016,December,Furniture,22812.2512
+2016,December,Office Supplies,16099.322
+2016,December,Technology,35632.028
+2016,February,Furniture,3134.374
+2016,February,Office Supplies,5368.067
+2016,February,Technology,3448.97
+2016,January,Furniture,11739.9416
+2016,January,Office Supplies,1808.78
+2016,January,Technology,4518.236
+2016,July,Furniture,13667.039999999999
+2016,July,Office Supplies,4706.243
+2016,July,Technology,10234.976
+2016,June,Furniture,7540.9710000000005
+2016,June,Office Supplies,9623.037
+2016,June,Technology,6435.366
+2016,March,Furniture,8722.6374
+2016,March,Office Supplies,13472.739
+2016,March,Technology,10143.942000000001
+2016,May,Furniture,9374.950499999999
+2016,May,Office Supplies,8941.58
+2016,May,Technology,11643.0
+2016,November,Furniture,30197.500500000002
+2016,November,Office Supplies,21178.298
+2016,November,Technology,23873.601
+2016,October,Furniture,11664.4875
+2016,October,Office Supplies,8642.36
+2016,October,Technology,10704.89
+2016,September,Furniture,25085.423
+2016,September,Office Supplies,19031.055
+2016,September,Technology,19017.128
+2017,April,Furniture,13212.09
+2017,April,Office Supplies,10577.175
+2017,April,Technology,14890.502
+2017,August,Furniture,11910.0583
+2017,August,Office Supplies,8959.74
+2017,August,Technology,9672.402
+2017,December,Furniture,36604.965
+2017,December,Office Supplies,37332.938
+2017,December,Technology,21801.218
+2017,February,Furniture,3925.551
+2017,February,Office Supplies,6794.349999999999
+2017,February,Technology,12258.914
+2017,January,Furniture,7622.743
+2017,January,Office Supplies,5299.682
+2017,January,Technology,5620.066
+2017,July,Furniture,12569.759
+2017,July,Office Supplies,12903.824
+2017,July,Technology,12847.2
+2017,June,Furniture,12450.524
+2017,June,Office Supplies,10901.81
+2017,June,Technology,16372.152
+2017,March,Furniture,12272.662
+2017,March,Office Supplies,17324.545000000002
+2017,March,Technology,21567.852
+2017,May,Furniture,14892.575
+2017,May,Office Supplies,12931.642
+2017,May,Technology,28832.691
+2017,November,Furniture,31783.6288
+2017,November,Office Supplies,20141.808
+2017,November,Technology,27141.059
+2017,October,Furniture,11813.009
+2017,October,Office Supplies,16236.65
+2017,October,Technology,31533.374
+2017,September,Furniture,26755.4749
+2017,September,Office Supplies,23013.402
+2017,September,Technology,19424.514
+2018,April,Furniture,9065.9581
+2018,April,Office Supplies,14214.947
+2018,April,Technology,12261.005000000001
+2018,August,Furniture,15419.122
+2018,August,Office Supplies,29799.564
+2018,August,Technology,17619.162
+2018,December,Furniture,31407.4668
+2018,December,Office Supplies,29638.012
+2018,December,Technology,21984.91
+2018,February,Furniture,6774.3774
+2018,February,Office Supplies,7378.172
+2018,February,Technology,5768.448
+2018,January,Furniture,5930.162
+2018,January,Office Supplies,21052.979
+2018,January,Technology,16493.333
+2018,July,Furniture,11375.822
+2018,July,Office Supplies,10239.356
+2018,July,Technology,23209.926
+2018,June,Furniture,17032.3867
+2018,June,Office Supplies,14221.101
+2018,June,Technology,16937.24
+2018,March,Furniture,10893.4448
+2018,March,Office Supplies,14541.346
+2018,March,Technology,33428.621999999996
+2018,May,Furniture,16957.5582
+2018,May,Office Supplies,13493.804
+2018,May,Technology,13374.62
+2018,November,Furniture,37056.715000000004
+2018,November,Office Supplies,31472.337
+2018,November,Technology,49409.102999999996
+2018,October,Furniture,21884.0682
+2018,October,Office Supplies,22708.4
+2018,October,Technology,32855.663
+2018,September,Furniture,28516.706
+2018,September,Office Supplies,31607.523
+2018,September,Technology,26028.659
